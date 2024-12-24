@@ -1,0 +1,14 @@
+void setup() {
+  // put your setup code here, to run once:
+pinMode(6, OUTPUT);
+pinMode(5, OUTPUT);
+}
+
+void loop() {
+digitalWrite(6, HIGH);//set logic level to high on pin 6 to on:
+digitalWrite(5, LOW);//set logic level to high on pin 6 to on:
+delay(1000);
+digitalWrite(6, LOW);//set logic lavel to low on pin 6 to off:
+digitalWrite(5, HIGH);//set logic lavel to low on pin 6 to off:
+delay(1000); 
+}
