@@ -1,10 +1,8 @@
 NAME: ABHISHEK AHIRWAR
 Company: CODTECH IT SOLUTIONS
-
 ID:CT08DS355
-
 Domain: EMBEDDED SYSTEMS
-Duration: NOVEMBER 5th, 2024 to JANUARY 5th, 2025
+Duration: DECEMBER 5th, 2024 to JANUARY 5th, 2025
 Mentor:Neela Santosh Kumar
 
 Overview of the Project
